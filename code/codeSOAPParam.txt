@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://WebXml.com.cn/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:getTVchannelDataSet>
+         <web:theTVstationID>44</web:theTVstationID> <!--44: Shanghai East TV Channel-->
+      </web:getTVchannelDataSet>
+   </soapenv:Body>
+</soapenv:Envelope>
